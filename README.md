@@ -5,7 +5,7 @@ I made this project at the age of 15.
 
 It is currently including two solutions. 
 
-One of them is a central API.
+One of them is a central API (it has Scalar installed. To access its UI add /scalar to the link).
 It recieves new jobs,
 gives a job to a requesting Worker,
 recieves updates/heartbeats from a Worker,
